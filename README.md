@@ -1,5 +1,5 @@
 
-## GraphCore Installation on an IPU POD
+## Poplar Installation on an GraphCore IPU POD
 
 Steps to Install Poplar SDK on a IPU POD (provided you have access to IPU Hardware)
 
